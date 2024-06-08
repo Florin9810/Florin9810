@@ -5,7 +5,7 @@
 - You can reach me on my Telegram Group
 - I speak English and Romanian fluently
 - Fun-Fact: I got into Android Development when I was 13 years old
-- List of Devices: Samsung Galaxy Starlte
+- List of Devices: Samsung Galaxy S9
 
 <!---
 Florin9810/Florin9810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
